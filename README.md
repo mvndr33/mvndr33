@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm passionate about Tech.
+i'm passionate about Dev.
 
 
 # 💻 Tech Stack:
